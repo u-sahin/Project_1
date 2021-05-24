@@ -11,11 +11,7 @@
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the required packages.
 
-"""bash
-pip install matplotlib
-pip install pandas
-pip install numpy
-"""
+"""pip install matplotlib pandas numpy"""
 
 
 ## Project Motivation <a name="motivation"></a>
@@ -30,7 +26,8 @@ Therefore I went ahead and try to answer three questions about the data.
 
 ## File Descriptions <a name="files"></a>
 
-To answer the questions mentioned in [2. Project Motivation], I created three separate files.
+To answer the questions mentioned in [2. Project Motivation](#motivation), I created three separate files.
+    
     1. The first question is handled in the file [Workstart_JobSatisfaction_Salary.ipynb].
     2. The second question is handled in the file [HaveWorkedLanguage_Salary.ipynb].
     3. The third question is handled in the file [Methodology_JobSatisfaction_Salary.ipynb].
